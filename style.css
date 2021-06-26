@@ -16,8 +16,7 @@ p{
     color: dimgray;
 }
 .half-width{
-    width: 35%;
-    float: left;
+    
     margin-top: 5%;
     margin-left: 3%;
     margin-right: 5%;
@@ -25,8 +24,7 @@ p{
 
 }
 .half-width-1{
-    width: 42%;
-    float: left;
+   
     margin-top: 5%;
     margin-left: 3%;
     margin-right: 0px;
@@ -35,7 +33,7 @@ p{
 }
 
 .half-width img{
-    width: 130%;
+    width: 100%;
 }
 .header-bg{
     background-image: url("images/header-bg.png") ;
